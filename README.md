@@ -230,4 +230,12 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 - All LLM providers for making AI accessible
 - Open source community for inspiration and tools
 
+## 📞 Support
+
+For support, email your-email@example.com or create an issue in this repository.
+
+---
+
+**Built with ❤️ by [PTCuong-1102](https://github.com/PTCuong-1102)**
+
 *ChitChat - Where conversations meet artificial intelligence*
